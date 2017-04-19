@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Кирилл Казарцев](https://up.htmlacademy.ru/htmlcss/17/user/200575).
+* Наставник: [Полина Катышева](https://htmlacademy.ru/profile/id262423).
 
 ---
 
